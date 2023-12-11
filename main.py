@@ -205,4 +205,3 @@ def main():
 
 if __name__ == "__main__":
     main()
->>>>>>> 38dc7e8 (Create solution with Python and Apache Beam for data management)
